@@ -58,4 +58,6 @@ void main() {
 
   bool every = list3.every((x) => x.isEven);
   print(every);
+
+  // list3.forEach(action)
 }
